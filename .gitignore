@@ -1,0 +1,6 @@
+cookies.pkl
+*.jsonl
+state.json
+latest.json
+*.log
+__pycache__/
